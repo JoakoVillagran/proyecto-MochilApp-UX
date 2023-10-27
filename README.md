@@ -19,7 +19,7 @@ The app aims to help "mochileros" by allowing them to share their experiences th
 ## Strategy
 The first step within the "Elements of User Experience" is the Strategy plane. A "Value Proposition Canvas" was used to determine what solution to provide based on the customer's need.
 
--IMAGEN Traducida
+![ValuePropositionCanvas](files/ValuePropositionCanvas.png)
 
 This process is carried out with a strategic focus that enables a deep understanding of the value proposition. As the previous figure is analyzed, several important elements closely aligned with customer needs and expectations can be highlighted. These key aspects serve as a guide for making informed decisions in the improvement and evolution of the solution. Furthermore, this process demonstrates a mindset of iteration and continuous improvement.
 
