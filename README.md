@@ -28,19 +28,23 @@ This process is carried out with a strategic focus that enables a deep understan
 
 Upon establishing our product strategy, the next step is to define the scope, which involves understanding our users and envisioning the functionality of our product for their benefit.
 
-(UX Personas image)
+![UXPersonaDiego](files/UXPersonaDiego.png)
+
+![UXPersonaLaura](files/UXPersonaLaura.png)
+
+![UXPersonaWilfredo](files/UXPersonaWilfredo.png)
 
 The UX Personas image introduces the archetypical users of "MochilApp," offering insights into their diverse needs, preferences, and goals, aiding in tailoring the application to serve them effectively.
 
 Next, the Customer Journey Map (CJM) visualizes the anticipated user experience, mapping out the different stages of interaction between the user and the app.
 
-(CJM image)
+![CJM](files/CJM.png)
 
 Additionally, strategic objectives previously identified are transformed into actionable insights using the Benchmarking Canvas, enabling the translation of these objectives into practical features and functionalities for "MochilApp."
 
 The Benchmarking Canvas image showcases a comparative analysis of key competitors, providing a comprehensive view of their strengths and weaknesses to guide the enhancement and differentiation of "MochilApp."
 
-(Benchmarking Canvas image)
+![BenchmarkingCanva](files/BenchmarkingCanva.png)
 
 ---
 ## Structure
