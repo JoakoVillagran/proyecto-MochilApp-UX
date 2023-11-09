@@ -80,7 +80,7 @@ Wireframes are essential in the design and development of digital products, as t
 
 ## Surface
 
-In this section, you can explore the mockups we've created to address the challenge. For a more comprehensive view, we invite you to check out the project on  [Figma](https://www.figma.com/file/EL05MCzEQbYjBmvMGHqBex/Untitled?type=design&node-id=0%3A1&mode=design&t=wkj2wCjB7bGjNAU8-1) where you can also explore its full range of functionalities.
+In this section, you can explore the mockups we've designed to provide a solution. For a more comprehensive view, we invite you to check out the project on  [Figma](https://www.figma.com/file/EL05MCzEQbYjBmvMGHqBex/Untitled?type=design&node-id=0%3A1&mode=design&t=wkj2wCjB7bGjNAU8-1) where you can also explore its full range of functionalities.
 
 ![HD UI Completas con navegabilidad](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/c032d7f7-aaef-44b5-81e2-150e245547ad)
 
