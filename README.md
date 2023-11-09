@@ -2,7 +2,7 @@
 
 ## Index
 - [Description](#description)
-- [Team](#2-Team)
+- [Team](#Team)
 - [Strategy](#strategy)
 - [Scope](#scope)
 - [Structure](#structure)
