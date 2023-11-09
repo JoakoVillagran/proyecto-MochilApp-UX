@@ -59,6 +59,7 @@ The Benchmarking Canvas image showcases a comparative analysis of key competitor
 ---
 
 ## Surface
+![HD UI Completas con navegabilidad](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/c032d7f7-aaef-44b5-81e2-150e245547ad)
 
 
 
