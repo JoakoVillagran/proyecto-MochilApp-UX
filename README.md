@@ -2,6 +2,7 @@
 
 ## Index
 - [Description](#description)
+- [Team](#2-Team)
 - [Strategy](#strategy)
 - [Scope](#scope)
 - [Structure](#structure)
@@ -16,6 +17,21 @@
 The app aims to help "backpackers" by allowing them to share their experiences through articles/reviews of visited places. It also aims to provide personalized points of interest recommendations to the user, display arrival routes and usable trails. Additionally, the app offers a safety feature to the user, including a panic button for emergencies. This button will alert the authorities while providing real-time user location. These and other functionalities are the support that "MochilApp" seeks to provide to all users looking for an exciting way to travel and enjoy a hassle-free experience. 
 
 ---
+
+
+## Team
+
+Manuel Alvial - Designer
+
+Claudio Churque - Analyst
+
+Maximiliano Cortés - Designer
+
+Cristóbal Matus - Project Manager
+
+Joaquín Villagran -  Analyst
+
+--- 
 ## Strategy
 The first step within the "Elements of User Experience" is the Strategy plane. A "Value Proposition Canvas" was used to determine what solution to provide based on the customer's need.
 
