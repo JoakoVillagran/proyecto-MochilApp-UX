@@ -49,7 +49,7 @@ The Benchmarking Canvas image showcases a comparative analysis of key competitor
 ---
 ## Structure
 
-![Navigation](files/structure.png).
+![Navigation](files/structure.png)
 
 ---
 
