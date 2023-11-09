@@ -70,6 +70,9 @@ The Benchmarking Canvas image showcases a comparative analysis of key competitor
 ---
 
 ## Skeleton
+
+Wireframes are essential in the design and development of digital products, as they provide a simplified visual representation that facilitates early planning, communication, and prototyping, enabling teams to define the structure and design of an interface clearly and efficiently. This saves resources and prioritizes a user-centered approach to achieve more effective and user-friendly interfaces.
+
 ![Wireframes (1)](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/e0c37181-0066-4d92-a3a6-20c29fd93309)
 
 
