@@ -53,6 +53,7 @@ The Benchmarking Canvas image showcases a comparative analysis of key competitor
 ---
 
 ## Skeleton
+![Wireframes (1)](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/e0c37181-0066-4d92-a3a6-20c29fd93309)
 
 
 ---
