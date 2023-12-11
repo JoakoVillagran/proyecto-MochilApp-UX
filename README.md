@@ -88,7 +88,7 @@ In this section, you can explore the mockups we've designed to provide a solutio
 ---
 
 
-##**Usability and accessibility**
+##Usability and accessibility
 
 To improve the user experience design, a second review was carried out on the usability and accessibility parameters. The results are shown below.
 
