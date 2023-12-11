@@ -8,6 +8,7 @@
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
+- [Usability and accessibility](#usability-and-accessibility)
 
 ---
 
@@ -88,11 +89,12 @@ In this section, you can explore the mockups we've designed to provide a solutio
 ---
 
 
-##Usability and accessibility
+## Usability and accessibility
 
 To improve the user experience design, a second review was carried out on the usability and accessibility parameters. The results are shown below.
 
-**Usability evaluation**
+### Usability evaluation
+
 In this section we will address the changes made to the initial design after a heuristic evaluation carried out by designers external to our team.
 
 This evaluation consists of a usability inspection method that allows us to inspect the quality of use of the initial design of the user interfaces.
@@ -110,7 +112,8 @@ The specific problems addressed in this section are as follows:
   - Mute users.
 
 
-**Accessibility**
+### Accessibility
+
 In the area of ​​accessibility, our team decided to implement help elements to provide a better experience and improve our interfaces to fit the needs of different users.
 
 This implementation is essential, because without it some users would find themselves with partial or incomplete functionality of the application. We mainly focus on helping users with various visual problems, such as different visual sensitivity or impairment when distinguishing colors, we also focus on improving the experience for neurodivergent users.
