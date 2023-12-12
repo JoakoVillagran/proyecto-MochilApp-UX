@@ -1,5 +1,5 @@
 # MochilApp UXD
-
+Figma: https://www.figma.com/file/EL05MCzEQbYjBmvMGHqBex/Untitled?type=design&node-id=549-12222&mode=design&t=mG3rmnAWk3YgL8CS-0
 ## Index
 - [Description](#description)
 - [Team](#Team)
@@ -83,7 +83,12 @@ Wireframes are essential in the design and development of digital products, as t
 
 In this section, you can explore the mockups we've designed to provide a solution. For a more comprehensive view, we invite you to check out the project on  [Figma](https://www.figma.com/file/EL05MCzEQbYjBmvMGHqBex/Untitled?type=design&node-id=0%3A1&mode=design&t=wkj2wCjB7bGjNAU8-1) where you can also explore its full range of functionalities.
 
-![HD UI Completas con navegabilidad](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/c032d7f7-aaef-44b5-81e2-150e245547ad)
+Light mode:
+![Modo claro (1)](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/3404d114-fb4c-4175-a564-df7ede69aae1)
+
+Dark mode:
+![Modo oscuro](https://github.com/JoakoVillagran/proyecto-MochilApp-UX/assets/89611132/9bc00411-0aac-44d0-b17d-3f35c6093059)
+
 
 
 ---
